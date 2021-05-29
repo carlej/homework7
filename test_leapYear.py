@@ -9,4 +9,4 @@ def test_4and100():
     assert leapYear.LY(100) == False
 
 def test_400():
-    assert leapYear.LP(400) == True
+    assert leapYear.LY(400) == True
